@@ -1,4 +1,4 @@
-# Intruções
+# Instruções
 
 ## Iniciando o banco de dados
 
